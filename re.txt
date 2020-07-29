@@ -2,5 +2,9 @@ sdfasdf
 sdfasdf
 123131321313
 akjsdlajsdlfkjsld
+<<<<<<< HEAD
 创建分支与合并测试真的非常好用
 
+=======
+创建分支与合并测试非常好用
+>>>>>>> feature1
